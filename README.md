@@ -66,6 +66,8 @@ Weather: Clear Sky
 
 Wind Speed: 2.5 m/s
 
+# output : https://github.com/palpari181-boop/Weather_App_Using_Python/blob/3b70071342fba32a8ffa82ebd35347a977f8696f/Output%20screenshot.png
+
 ## Learning Outcomes
 
 This project helped in understanding:
