@@ -1,79 +1,30 @@
-# Weather App Using Python
-
-## Overview
-
-Weather App is a Python-based application that provides real-time weather information for any city using the OpenWeather API. Users can enter a city name and instantly get details such as temperature, humidity, weather conditions, and wind speed.
-
 ## Features
 
-* Real-time weather updates
-* Search weather by city name
-* Displays temperature in Celsius
-* Shows humidity percentage
-* Displays weather description
-* Shows wind speed information
-* Handles invalid city names gracefully
-* Simple and user-friendly interface
-* API integration using OpenWeather API
+🌦 Real-Time Weather Monitoring – Fetches live weather data for any city.
+🤖 AI-Powered Weather Insights – Uses Gemini AI to generate smart weather summaries and recommendations.
+🌍 Air Quality Index (AQI) Tracking – Displays current air quality with health-friendly status labels.
+🌡 Detailed Weather Metrics – Shows temperature, humidity, wind speed, and feels-like temperature.
+🌅 Sunrise & Sunset Information – Provides accurate sunrise and sunset timings.
+📅 5-Day Weather Forecast – Displays upcoming weather conditions and temperature predictions.
+📈 Interactive Temperature Trend Visualization – Dynamic charts powered by Plotly for better analysis.
+🎨 Dynamic Weather-Based Backgrounds – Automatically changes background according to current weather conditions.
+🌙 Enhanced User Interface – Clean and responsive Streamlit dashboard with improved readability.
+⚡ Fast API Integration – Built using OpenWeather API for real-time weather updates.
+📱 User-Friendly Experience – Simple city search with instant results and insights.
 
 ## Technologies Used
 
-* Python
-* Requests Library
-* OpenWeather API
-* JSON Data Handling
+Python
+Streamlit
+OpenWeather API
+Gemini AI
+Pandas
+Plotly
+HTML/CSS
 
-## Project Structure
+## Project Highlights
 
-Weather_App_Using_Python/
-
-├── weather_app.py
-
-├── README.md
-
-└── screenshots/
-
-    └── output.png
-
-## How to Run
-
-1. Install the required library:
-   pip install requests
-
-2. Get your API key from OpenWeather.
-
-3. Add your API key in the code:
-   API_KEY = "YOUR_API_KEY"
-
-4. Run the application:
-   python weather_app.py
-
-5. Enter a city name to view weather information.
-
-## Sample Output
-
-Enter City Name: Kanpur
-
------ Weather Report -----
-
-City: Kanpur
-
-Temperature: 35°C
-
-Humidity: 48%
-
-Weather: Clear Sky
-
-Wind Speed: 2.5 m/s
-
-# output : https://github.com/palpari181-boop/Weather_App_Using_Python/blob/3b70071342fba32a8ffa82ebd35347a977f8696f/Output%20screenshot.png
-
-## Learning Outcomes
-
-This project helped in understanding:
-
-* API integration in Python
-* Working with JSON responses
-* HTTP requests using Requests library
-* Error handling
-* Real-world Python application development
+Integrated Artificial Intelligence with weather forecasting.
+Combined Data Visualization and Real-Time APIs.
+Implemented Dynamic UI Customization based on weather conditions.
+Developed an interactive dashboard suitable for real-world use cases.
