@@ -28,3 +28,5 @@ Integrated Artificial Intelligence with weather forecasting.
 Combined Data Visualization and Real-Time APIs.
 Implemented Dynamic UI Customization based on weather conditions.
 Developed an interactive dashboard suitable for real-world use cases.
+
+## Screenshot
