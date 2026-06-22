@@ -12,11 +12,11 @@ Search any city and get
 real-time weather updates.
 """)
 
-API_KEY = "24548b99095d384bca607c17d3676319"
+API_KEY = "WEATHER API KEY"
 
 import google.generativeai as genai
 
-genai.configure(api_key="AQ.Ab8RN6IExfUuwrQ5QJO0qCjZJESooi3GKGWE5-JyZ1xUuFWU_Q")
+genai.configure(api_key="GEMENAI KEY")
 
 model = genai.GenerativeModel("gemini-2.5-flash")
 
