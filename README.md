@@ -30,3 +30,5 @@ Implemented Dynamic UI Customization based on weather conditions.
 Developed an interactive dashboard suitable for real-world use cases.
 
 ## Screenshot
+
+https://github.com/palpari181-boop/Weather_App_Using_Python/blob/bcad0df0e56f22b5c8e2a21677b2a534669b830e/clear%20sky.png
